@@ -5,3 +5,4 @@ mnist/*
 *.pth
 
 !images/mnist_cm_epoch58.png
+!images/cifar-10_cm_epoch5.png
