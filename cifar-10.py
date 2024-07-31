@@ -16,7 +16,7 @@ if __name__ == "__main__":
     parser.add_argument("-t", "--total-epochs", type=int, default=60)
     parser.add_argument("-b", "--batch-size", type=int, default=32)
     parser.add_argument("-m", "--model", type=str, default=None)
-    parser.add_argument("-s", "--saving-dir", type=str, default="result")
+    parser.add_argument("-s", "--saving-dir", type=str, default="result_cifar10")
 
     args = parser.parse_args()
 
