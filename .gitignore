@@ -3,6 +3,7 @@ cifar-10/*
 mnist/*
 *.png
 *.pth
+report/*
 
-!images/mnist_cm_epoch58.png
-!images/cifar-10_cm_epoch5.png
+!images/cifar10_cm_epoch58.png
+!images/mnist_cm_epoch5.png
